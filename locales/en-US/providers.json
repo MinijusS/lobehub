@@ -86,5 +86,6 @@
   "xinference.description": "Xorbits Inference (Xinference) is an open-source platform that simplifies running and integrating AI models. It lets you run open-source LLMs, embedding models, and multimodal models locally or in the cloud to build powerful AI apps.",
   "zenmux.description": "ZenMux is a unified AI aggregation platform that supports OpenAI, Anthropic, Google VertexAI, and more, with flexible routing to switch and manage models easily.",
   "zeroone.description": "01.AI drives a human-centered AI 2.0 revolution, using LLMs to create economic and social value and build new AI ecosystems and business models.",
-  "zhipu.description": "ZhiPu AI provides an open platform for multimodal and language models across text processing, image understanding, and coding assistance."
+  "zhipu.description": "ZhiPu AI provides an open platform for multimodal and language models across text processing, image understanding, and coding assistance.",
+  "hostinger.description": "Hostinger AI Router provides OpenAI-compatible access to models from multiple AI providers through one API key and shared Hostinger AI credit balance."
 }

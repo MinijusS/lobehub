@@ -86,5 +86,6 @@
   "xinference.description": "Xorbits Inference（Xinference）是一个开源平台，简化 AI 模型的运行与集成，支持在本地或云端运行开源大模型、向量模型与多模态模型，构建强大的 AI 应用。",
   "zenmux.description": "ZenMux 是一个统一的 AI 聚合平台，支持 OpenAI、Anthropic、Google VertexAI 等，具备灵活路由能力，便于模型切换与管理。",
   "zeroone.description": "01.AI 推动以人为本的 AI 2.0 革命，利用大模型创造经济与社会价值，构建新型 AI 生态与商业模式。",
-  "zhipu.description": "智谱 AI 提供开放平台，涵盖文本处理、图像理解与代码辅助等多模态与语言模型能力。"
+  "zhipu.description": "智谱 AI 提供开放平台，涵盖文本处理、图像理解与代码辅助等多模态与语言模型能力。",
+  "hostinger.description": "Hostinger AI Router 通过一个 API 密钥和共享的 Hostinger AI 积分余额，提供对多个 AI 服务商模型的 OpenAI 兼容访问。"
 }

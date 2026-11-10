@@ -31,6 +31,7 @@ import GoogleProvider from './google';
 import GroqProvider from './groq';
 import HigressProvider from './higress';
 import HuggingFaceProvider from './huggingface';
+import HostingerProvider from './hostinger';
 import HunyuanProvider from './hunyuan';
 import InfiniAIProvider from './infiniai';
 import InternLMProvider from './internlm';
@@ -178,6 +179,7 @@ export const DEFAULT_MODEL_PROVIDER_LIST = [
   UnslothProvider,
   ComfyUIProvider,
   HuggingFaceProvider,
+  HostingerProvider,
   CloudflareProvider,
   GithubProvider,
   GithubCopilotProvider,
@@ -335,6 +337,7 @@ export { default as GoogleProviderCard } from './google';
 export { default as GroqProviderCard } from './groq';
 export { default as HigressProviderCard } from './higress';
 export { default as HuggingFaceProviderCard } from './huggingface';
+export { default as HostingerProviderCard } from './hostinger';
 export { default as HunyuanProviderCard } from './hunyuan';
 export { default as InfiniAIProviderCard } from './infiniai';
 export { default as InternLMProviderCard } from './internlm';
